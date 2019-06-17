@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Buddhas of Bamyan</Name>
+    <Guid>fd3f13ba-3d51-442f-9435-3aeca0116b46</Guid>
+    <ProjectGuid>0f6f096e-f026-4a3f-947d-493b70e34b8a</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Dedfslkjhfskjhfslkhfj</Teaser>
+    <Description>Dedfslkjhfskjhfslkhfj</Description>
+    <Authors>Del</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>CWON_Bamyan</AssemblyName>
+    <RootNamespace>CWON_Bamyan</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="CWON_Bamyan.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

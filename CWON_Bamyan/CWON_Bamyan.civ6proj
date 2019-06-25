@@ -2,7 +2,7 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>Buddhas of Bamyan</Name>
+    <Name>Buddhas of Bamyan (World Wonder)</Name>
     <Guid>fd3f13ba-3d51-442f-9435-3aeca0116b46</Guid>
     <ProjectGuid>0f6f096e-f026-4a3f-947d-493b70e34b8a</ProjectGuid>
     <ModVersion>1</ModVersion>

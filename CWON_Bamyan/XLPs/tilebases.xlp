@@ -10,12 +10,12 @@
     <m_PackageName text="landmarks/tilebases"/>
     <m_Entries>
         <Element>
-            <m_EntryID text="Bamyan__Bamyan"/>
-            <m_ObjectName text="Bamyan__Bamyan"/>
+            <m_EntryID text="Bamyan_Buddha"/>
+            <m_ObjectName text="Bamyan_Buddha"/>
         </Element>
         <Element>
-            <m_EntryID text="Bamyan__HB"/>
-            <m_ObjectName text="Bamyan__HB"/>
+            <m_EntryID text="Bamyan_HB"/>
+            <m_ObjectName text="Bamyan_HB"/>
         </Element>
     </m_Entries>
     <m_AllowedPlatforms>

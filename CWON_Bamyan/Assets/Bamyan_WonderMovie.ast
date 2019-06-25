@@ -662,7 +662,7 @@
 	<m_CookParams>
 		<m_Values>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="WON_Taj_Mahal_OB"/>
+				<m_ObjectName text=""/>
 				<m_eObjectType>GEOMETRY</m_eObjectType>
 				<m_ParamName text="Obstruction Profile"/>
 			</Element>

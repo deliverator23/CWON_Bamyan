@@ -2,19 +2,19 @@
 <GameData>
 	<EnglishText>
 		<Row Tag="LOC_BUILDING_BAMYAN_NAME">
-			<Text>Bamyan</Text>
+			<Text>Buddhas of Bamyan</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BAMYAN_DESCRIPTION">
-			<Text>Desc</Text>
+			<Text>Description</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BAMYAN_QUOTE">
-			<Text>"Bamyan is admirable as a majestic work of art. The great extent of the masses of building covered in some parts with the luxuriant vegetation of the climate, the beauty and delicate execution of the separate portions, the symmetry and regularity of the whole." - Sir Thomas Stamford Raffles</Text>
+			<Text>"To the north-east of the royal city there is a mountain, on the declivity of which is placed a stone figure of Buddha, erect, in height 140 or 150 feet. Its golden hues sparkle on every side, and its precious ornaments dazzle the eyes by their brightness." - Xuanzang, Record of the Western Regions</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BAMYAN_CHAPTER_HISTORY_PARA_1">
-			<Text>Built in 1599 AD on Maiden Lane in London by the Lord Chamberlain's Men, the theatrical company of which William Shakespeare was a shareholder, the Globe Theatre incorporated a number of design innovations.</Text>
+			<Text></Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BAMYAN_CHAPTER_HISTORY_PARA_2">
-			<Text>In 1613 the Globe burned to the ground after the thatched roof was set alight by cannonfire during a production of Henry VIII; it was rebuilt on the same site in 1614 and continued in operation until closed by the Puritans in 1642. Although its exact dimensions are unrecorded, it is known that the Globe Theatre was a three-story, circular, open-air amphitheater roughly 30 meters (100 feet) in diameter and able to seat about 300 spectators.</Text>
+			<Text></Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BAMYAN_CHAPTER_HISTORY_PARA_3">
 			<Text></Text>

@@ -64,16 +64,16 @@
 							<m_bValue>false</m_bValue>
 							<m_ParamName text="bAlignWithRiver"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
-							<m_nValue>10</m_nValue>
+						<Element class="AssetObjects..IntValue">
+							<m_nValue>1</m_nValue>
 							<m_ParamName text="MinVisualProgress"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
-							<m_nValue>90</m_nValue>
+						<Element class="AssetObjects..IntValue">
+							<m_nValue>89</m_nValue>
 							<m_ParamName text="MaxVisualProgress"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
-							<m_nValue>25</m_nValue>
+						<Element class="AssetObjects..IntValue">
+							<m_nValue>0</m_nValue>
 							<m_ParamName text="UnitHiddenThreshold"/>
 						</Element>
 						<Element class="AssetObjects:ArtDefReferenceValue">

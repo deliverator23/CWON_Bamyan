@@ -3,17 +3,17 @@
 	<m_CookParams>
 		<m_Values>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="Bamyan_Buddha_a2"/>
+				<m_ObjectName text="Bamyan_Golden_a"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="BaseColor"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="Flat_Normal"/>
+				<m_ObjectName text="Bamyan_Golden_n"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Normal"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="White_AO"/>
+				<m_ObjectName text="Bamyan_Golden_ao"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="AO"/>
 			</Element>
@@ -22,7 +22,7 @@
 				<m_ParamName text="Seperate_AO_UV"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="Black_Metalness"/>
+				<m_ObjectName text="Bamyan_Golden_m"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Metalness"/>
 			</Element>
@@ -32,7 +32,7 @@
 				<m_ParamName text="TintMask"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="Black_Gloss"/>
+				<m_ObjectName text="Bamyan_Golden_g"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Gloss"/>
 			</Element>

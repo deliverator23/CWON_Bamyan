@@ -40,7 +40,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Material.000001"/>
-						<m_MeshName text="Buddha"/>
+						<m_MeshName text="Rocks"/>
 						<m_StateName text="Worked"/>
 					</Element>
 				</m_GroupStates>
@@ -60,7 +60,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Material.000001"/>
-						<m_MeshName text="Buddha"/>
+						<m_MeshName text="Rocks"/>
 						<m_StateName text="Unworked"/>
 					</Element>
 				</m_GroupStates>
@@ -80,7 +80,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Material.000001"/>
-						<m_MeshName text="Buddha"/>
+						<m_MeshName text="Rocks"/>
 						<m_StateName text="Pillaged"/>
 					</Element>
 				</m_GroupStates>

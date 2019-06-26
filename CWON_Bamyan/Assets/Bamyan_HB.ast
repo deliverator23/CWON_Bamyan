@@ -73,7 +73,7 @@
 						<m_Values>
 							<m_Values>
 								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="Bamyan_Buddha"/>
+									<m_ObjectName text="Bamyan_Buddha_PIL"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>

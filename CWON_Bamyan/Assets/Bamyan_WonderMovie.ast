@@ -268,8 +268,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-6.643596</x>
-							<y>3.835687</y>
+							<x>-5.314877</x>
+							<y>3.068550</y>
 							<z>0.000000</z>
 						</m_position>
 						<m_orientation>
@@ -280,7 +280,7 @@
 						<m_Name text="Buddha1"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>1.665000</m_scale>
+						<m_scale>1.332</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -316,8 +316,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>7.686500</x>
-							<y>-11.805800</y>
+							<x>6.1492</x>
+							<y>-9.44464</y>
 							<z>0.000000</z>
 						</m_position>
 						<m_orientation>
@@ -328,7 +328,7 @@
 						<m_Name text="Buddha2"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>1.125000</m_scale>
+						<m_scale>0.9</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -364,8 +364,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-6.643596</x>
-							<y>3.835687</y>
+							<x>-5.314877</x>
+							<y>3.068550</y>
 							<z>0.000000</z>
 						</m_position>
 						<m_orientation>
@@ -376,7 +376,7 @@
 						<m_Name text="Buddha1_HB"/>
 						<m_BoneName text="HB_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>1.665000</m_scale>
+						<m_scale>1.332</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -412,8 +412,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>7.686500</x>
-							<y>-11.805800</y>
+							<x>6.1492</x>
+							<y>-9.44464</y>
 							<z>0.000000</z>
 						</m_position>
 						<m_orientation>
@@ -424,7 +424,7 @@
 						<m_Name text="Buddha2_HB"/>
 						<m_BoneName text="HB_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>1.125000</m_scale>
+						<m_scale>0.9</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
